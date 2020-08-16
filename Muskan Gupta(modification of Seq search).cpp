@@ -24,7 +24,7 @@ int main(){
 	}
 	}
 	else{
-		for(i=n;i<0;i--){
+		for(i=n;i>0;i--){
 		   if(a[i]==x){
 		   	 printf("\nElement searched from end");
 			 break;
